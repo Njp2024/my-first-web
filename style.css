@@ -1,0 +1,36 @@
+banner{
+    font-family: "Courier 10 Pitch";
+    font-size: large;
+    background: chocolate;
+    border-radius: 5px;
+    width: 750px;
+
+}
+body {
+    background: lavender;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 500px;
+
+
+    text-align: center;
+    text-decoration: underline;
+
+
+}
+bunner input {
+    width: 90%;
+    position: relative;
+    margin: 10px 20px;
+    height: 20px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    background: transparent;
+    padding: 1px;
+
+
+}
+button
+
